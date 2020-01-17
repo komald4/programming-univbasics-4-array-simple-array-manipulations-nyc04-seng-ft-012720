@@ -9,3 +9,8 @@ def using_unshift(array, elements)
   new_neighborhood = "Staten Island"
   bouroughs_in_nyc.unshift(new_neighborhood)
 end
+
+def using_pop(array, elements)
+  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  deleted_string = .pop(continents)
+end
