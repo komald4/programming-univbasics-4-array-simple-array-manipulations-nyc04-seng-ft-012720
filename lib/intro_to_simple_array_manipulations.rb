@@ -7,5 +7,5 @@ end
 def using_unshift(array, elements)
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   new_neighborhood = "Staten Island"
-  colors_in_the_rainbow.unshift(new_neighborhood)
+  bouroughs_in_nyc.unshift(new_neighborhood)
 end
