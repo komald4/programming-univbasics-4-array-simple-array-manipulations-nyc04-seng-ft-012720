@@ -28,6 +28,5 @@ array.pop(2)
 end
 
 def using_shift(array)
-array = array.shift(1)
-array.shift(1)
+Lagos = using_shift.shift
 end
