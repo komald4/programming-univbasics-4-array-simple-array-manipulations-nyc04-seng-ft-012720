@@ -1,3 +1,3 @@
-def updated_array(array, element)
-  updated_array.push("violet")
+def colors_in_the_rainbow (array, element)
+  colors_in_the_rainbow.push("violet")
 end
