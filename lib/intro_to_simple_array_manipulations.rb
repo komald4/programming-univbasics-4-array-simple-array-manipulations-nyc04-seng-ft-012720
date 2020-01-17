@@ -28,6 +28,6 @@ array.pop(2)
 end
 
 def using_shift(array)
-array = array.pop()
-array.pop(1)
+array = array.shift(1)
+#array.shift(1)
 end
