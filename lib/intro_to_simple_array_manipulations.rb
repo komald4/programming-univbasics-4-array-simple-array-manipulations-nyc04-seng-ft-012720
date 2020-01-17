@@ -10,7 +10,7 @@ def using_unshift(array, elements)
   bouroughs_in_nyc.unshift(new_neighborhood)
 end
 
-def using_pop(array, elements)
+def using_pop(array)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   continents.pop
 end
