@@ -1,3 +1,3 @@
 def updated_array(array, element)
-  array.push
+  updated_array.push("violet")
 end
