@@ -45,5 +45,5 @@ array = array.insert(4,element)
 end
 
 def using_uniq(array)
-  array = n.uniq
+  array = array.uniq
 end
