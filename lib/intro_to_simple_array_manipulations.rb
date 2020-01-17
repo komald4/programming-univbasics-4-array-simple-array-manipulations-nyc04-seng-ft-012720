@@ -42,5 +42,5 @@ end
 
 
 def using_concat(array1, element)
-array1 = array1.push(*element)
+array1 = array1.unshift(*element)
 end
