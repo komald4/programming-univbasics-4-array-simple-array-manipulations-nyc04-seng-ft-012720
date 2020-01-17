@@ -6,6 +6,6 @@ end
 
 def using_unshift(array, elements)
   colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-  next_color = "Staten Island"
-  colors_in_the_rainbow.unshift(next_color)
+  new_neighborhood = "Staten Island"
+  colors_in_the_rainbow.unshift(new_neighborhood)
 end
