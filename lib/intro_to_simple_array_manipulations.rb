@@ -59,5 +59,5 @@ end
 
 
 def using_delete (array, string)
-  array == string
+  array == array.delete string
 end
